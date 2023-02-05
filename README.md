@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanWerb
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning The Principals of Software Testing
+- 👀 I’m interested in Frontend Devolopment
+- 🌱 I’m currently learning html, css, and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ivan.werbach8@gmail.com
 
